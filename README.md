@@ -12,7 +12,7 @@ const profile = {
  instagram: '@lewixx12x',
  twitter: '@lewixx12x'
 }
-if ( profile.username == 'ArseN' ) {
+if ( profile.username == 'Es Lewixx' ) {
  console.log('Yup, that's me!');
 } 
 ```
