@@ -7,10 +7,10 @@
 <img src="https://discord.com/users/1024632954615496764">
 ```javascript
 const profile = {
- username: 'ArseN',
- age: 20,
- instagram: '@cemilgrl',
- twitter: '@CemilGrl'
+ username: 'Es Lewixx',
+ language: html,css,javascript
+ instagram: '@lewixx12x',
+ twitter: '@lewixx12x'
 }
 if ( profile.username == 'ArseN' ) {
  console.log('Yup, that's me!');
