@@ -11,7 +11,7 @@
 | C | Html       | %60   |
 | D | Javascript | %37   |
 
-![][./anime.png]
+![][.anime.png]
 
 ```javascript
 const profile = {
